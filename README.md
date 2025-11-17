@@ -18,7 +18,6 @@ NkustAqiConsole/
 ├─ Program.cs               # 主程式邏輯
 └─ README.md                # 專案說明
 ```
-README.md # 專案說明檔
 
 
 ---
