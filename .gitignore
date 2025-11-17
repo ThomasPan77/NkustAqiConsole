@@ -1,0 +1,10 @@
+# .NET Core build files
+[Bb]in/
+[Oo]bj/
+
+# Data files (Do not upload data)
+App_Data/
+
+# User-specific files
+*.user
+*.suo
