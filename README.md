@@ -8,14 +8,17 @@
 
 ## 📁 專案結構
 
+```
 NkustAqiConsole/
-├── App_Data/
-│ └── AQI_Data.json # AQI 即時資料（需手動下載）
-├── NkustAqiConsole.csproj # 專案檔
-├── AqiDataModel.cs # C# 資料模型（對應 JSON 結構）
-├── JsonDataService.cs # JSON 讀取服務
-├── Program.cs # 主程式邏輯（分析與印出）
-└── README.md # 專案說明檔
+├─ App_Data/
+│  └─ AQI_Data.json   # AQI 即時資料（需手動下載）
+├─ NkustAqiConsole.csproj   # 專案檔
+├─ AqiDataModel.cs          # C# 資料模型
+├─ JsonDataService.cs       # JSON 讀取服務
+├─ Program.cs               # 主程式邏輯
+└─ README.md                # 專案說明
+```
+README.md # 專案說明檔
 
 
 ---
